@@ -1,8 +1,6 @@
 
 
-# [
-# Device-Dreiver-For-Coustom-Hardware
-](https://github.com/deveshbajaj/Device-Dreiver-For-Coustom-Hardware)
+# [# Device-Dreiver-For-Coustom-Hardware](https://github.com/deveshbajaj/Device-Dreiver-For-Coustom-Hardware)
 
 In computing, a system call is a programmatic way in which a computer program requests a service from the kernel of the operating system it is executed on. This may include hardware-related services (for example, accessing a hard disk drive), creation and execution of new processes, and communication with integral kernel services such as p In computing, a system call is the programmatic way in which a computer program requests a service from the kernel of the operating system it is executed on. This may include hardware-related services (for example, accessing a hard disk drive), creation and execution of new processes, and communication with integral kernel services such as process scheduling. System calls provide an essential interface between a process and the operating system. process scheduling. System calls provide an essential interface between a process and the operating system.
 
