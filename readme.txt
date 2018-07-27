@@ -1,24 +1,35 @@
+# [Project](http://project-url)
 
+## Description
 
-# [
-# Device-Dreiver-For-Coustom-Hardware
-](https://github.com/deveshbajaj/Device-Dreiver-For-Coustom-Hardware)
+_Project Name_ is a... 
 
-In computing, a system call is a programmatic way in which a computer program requests a service from the kernel of the operating system it is executed on. This may include hardware-related services (for example, accessing a hard disk drive), creation and execution of new processes, and communication with integral kernel services such as p In computing, a system call is the programmatic way in which a computer program requests a service from the kernel of the operating system it is executed on. This may include hardware-related services (for example, accessing a hard disk drive), creation and execution of new processes, and communication with integral kernel services such as process scheduling. System calls provide an essential interface between a process and the operating system. process scheduling. System calls provide an essential interface between a process and the operating system.
+For example ...
 
-**system call Used**
+    example code
+    
+And this returns:
+    example return code
+    ...
 
-• win32api.mouse\_event(win32con.MOUSEEVENTF\_LEFTDOWN,x,y,0,0)
+## Installation
 
-• win32api.mouse\_event(win32con.MOUSEEVENTF\_LEFTUP,x,y,0,0)
+## Usage
 
-• current = win32api.GetCursorPos()
+## Where to get help
 
-• win32api.GetAsyncKeyState(ord(&#39;X&#39;)):
+* Documentation
+* Mailing List
+* Wiki
 
-• win32gui.SendMessage(win32con.HWND\_BROADCAST, win32con.WM\_SYSCOMMAND, win32con.SC\_MONITORPOWER, 2)
+## Contribution Guidelines
+Tell me how I can help out including wanted features and code standards
 
-• win32gui.SendMessage(win32con.HWND\_BROADCAST, win32con.WM\_SYSCOMMAND,
+## Contributor List
+List the humans behind the project
 
-• win32con.SC\_MONITORPOWER, -1)
+## Credits, Inspiration, Alternatives
+Tell me if this is a fork of or otherwise inspired by another project.
 
+## License
+X license. See LICENSE for full details.
